@@ -1,5 +1,7 @@
 # CAPSTONE PROJECT
 Ecommerce sales and business analysis
+## TABLEAU STORY LINK
+https://public.tableau.com/views/GROUP4finalassignment_new/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## INTRODUCTION
 I’m part of the data analysis team at Mabb Clothing, a global e-commerce company. Our recent analysis focuses on identifying trends from 2019 to 2023 and comparing them to the current year, 2024. We examined sales, inventory, product performance, customer behavior, and website metrics to gain insights into overall business performance.
